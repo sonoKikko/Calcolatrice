@@ -26,5 +26,9 @@ public class Calcolatrice {
         return a/b;
     }
 
+    public double divisionePerDieci(int a){
+        return a/10;
+    }
+
 }
 
